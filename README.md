@@ -8,7 +8,7 @@
 ![alt text](https://i.imgur.com/jRB0GVd.png)
 
 
-# Agenda
+# MagnataRestaurante
 
 Projeto criado para um restaurante local
 
